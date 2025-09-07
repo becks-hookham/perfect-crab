@@ -43,3 +43,17 @@ def add_numbers(num_a, num_b):
   return num_a + num_b
 
 ````
+
+| Code           | What is it?                                        |
+| -------------- | -------------------------------------------------- |
+| def            | `def` is a keyword that defines a new function     |
+| add_one        | `add_one` is the function name                     |
+| (num)          | `(num)` is the parameter list                      |
+| num            | `num` is a parameter                               |
+| :              | The `:` symbol indicates the body should start now |
+| return num + 1 | `return num + 1` is a statement                    |
+| num + 1        | `num + 1` is an expression                         |
+| num            | `num` here is a variable                           |
+| +              | `+` is an operator                                 |
+| 1              | `1` is a literal number                            |
+
