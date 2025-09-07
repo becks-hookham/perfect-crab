@@ -1,6 +1,7 @@
 ## Learn As We Go 👣 
 
 _👣  Being an effective engineer is about being an effective researcher and user of the information you find._
+_👣 _You will spend a lot of time checking and comparing your work._
 
 # GitHub Codespaces Guide
 
