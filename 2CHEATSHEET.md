@@ -42,13 +42,10 @@ def multiply_numbers(num_a, num_b):
 
 ````
 
-Here is an example
+This is a function to add numbers
 
 ````python
-print("multiply_numbers(2, 3) is:")
-print(multiply_numbers(2, 3))
-
-print("multiply_numbers(3, 5) is:")
-print(multiply_numbers(3, 5))
+def add_numbers(num_a, num_b):
+  return num_a + num_b
 
 ````
