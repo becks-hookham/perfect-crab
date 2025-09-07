@@ -25,7 +25,7 @@ This 'just_return_it' function has:
 
 **A parameter:**
 
-'num' that it as input. You might also hear these informally referred to as 'arguments'
+'num' that is the input. You might also hear these informally referred to as 'arguments'
 
 **Call a function like this**
 
@@ -34,7 +34,6 @@ just_return_it(4)
 ````
 
 This returns 4
-
 
 **See an example: print**
 
@@ -45,3 +44,6 @@ print(just_return_it(4))
 
 **Troubleshooting**
 Video: [I lost the terminal](https://vimeo.com/1061335416/4f5eb4a48f)
+
+- Spaces tell you what the body of the function is. The code won't work if you don't use spaces. 
+- Some people use terminal and shell interchangeably but the terminal is the app/window you open and the shell is the program running inside terminal that interprets your commands (zsh, bash, etc). 
