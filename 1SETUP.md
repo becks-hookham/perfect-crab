@@ -4,7 +4,8 @@ _👣  Being an effective engineer is about being an effective researcher and us
 
 _👣 You will spend a lot of time checking and comparing your work._
 
-👣 _Hit tab to complete commands_
+- Hit tab to complete commands
+- Indent is always two spaces
 
 
 # GitHub Codespaces Guide
