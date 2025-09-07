@@ -22,4 +22,5 @@ print(add_one(6))
 **argumen**t - 6
 
 
-**def add_one(num**): - note semi-colon 
+**def add_one(num**): - note the colon 
+- Colon says we're going to start a new block of code.
