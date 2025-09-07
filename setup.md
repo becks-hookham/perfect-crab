@@ -14,6 +14,8 @@ _👣  Being an effective engineer is about being an effective researcher and us
 | **Reconfigure Page** | - Resize terminal <br>- Click next to port to access context menu |
 | **Run a Test Python Program** | `python lib/trial.py` |
 | **Themes Light / Dark Mode** | - Cog (bottom left) <br>- Hit **Settings** <br>- Workbench → Appearance → Colour Theme <br>- Paul prefers Dark Default |
+| **GitHub Codespaces **| Go to [github.com/codespaces](https://github.com/codespaces) → Sign in → Click your profile picture (top right) → **Your codespaces** to view and manage how many are running. |
+
 
 
 
