@@ -15,3 +15,11 @@ print("add_one(6) returns:")
 print(add_one(6))
 
 ````
+**def** - define
+
+**num** - parameter
+
+**argumen**t - 6
+
+
+**def add_one(num**): - note semi-colon 
