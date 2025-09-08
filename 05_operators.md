@@ -25,8 +25,7 @@ The data type is a `bool`
 | 1              | `1` is a literal number                            |
 
 
-```python
-````
+
 **Addition**
 
 ```python
@@ -88,4 +87,39 @@ Sometimes known as "2 to the power of 3"
 expr = 2 ** 3
 print(f"2 ** 3 = {expr} (should be 8)")
 
+````
+
+**Fun Facts**
+
+**🦀 F-Strings**
+
+An f-string is a Python feature that makes it easy to mix text with variables or calculations inside one string.
+
+It is short for _formatted string literal_ and is a way to put a variable or expression directly inside a string.
+
+**How To Write One**
+
+You put an `f` in front of a string.
+
 ```python
+
+f"some text {variable}"
+
+````
+
+Anything inside `{ ... } will be evaluated and replaced with its value.
+
+```python
+
+
+name = "Becks"
+age = 41
+
+print(f"My name is {name} and I am {age} years old.")
+
+#Output
+
+My name is Becks and I am 41 years old.
+
+
+````
