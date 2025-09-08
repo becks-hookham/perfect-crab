@@ -57,3 +57,13 @@ def add_numbers(num_a, num_b):
 | +              | `+` is an operator                                 |
 | 1              | `1` is a literal number                            |
 
+| Operator | Name               | Example   | Result | Explanation                                                                 |
+|----------|--------------------|-----------|--------|-----------------------------------------------------------------------------|
+| `+`      | Addition           | `5 + 2`   | `7`    | Adds the numbers together                                                   |
+| `-`      | Subtraction        | `5 - 2`   | `3`    | Subtracts the right number from the left                                    |
+| `*`      | Multiplication     | `5 * 2`   | `10`   | Multiplies the numbers                                                      |
+| `/`      | Division           | `5 / 2`   | `2.5`  | Divides the left number by the right, result is a decimal (float)           |
+| `//`     | Floor Division     | `5 // 2`  | `2`    | Divides and rounds *down* to the nearest whole number (ignores remainder)   |
+| `%`      | Modulus (remainder)| `5 % 2`   | `1`    | Gives the remainder after division                                          |
+| `**`     | Exponentiation     | `5 ** 2`  | `25`   | Raises the left number to the power of the right (here, 5 squared)          |
+
