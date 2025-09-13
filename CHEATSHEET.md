@@ -144,7 +144,8 @@ def add_one_and_divide_by_two_with_an_expression(num):
 print(add_one_and_divide_by_two_with_an_expression(5))
 ````
 
-##Strings
+## Strings
+**Strings are a data structure**
 
 A string is a sequence of characters (letters).
 * Using "double quotes"
