@@ -144,4 +144,19 @@ def add_one_and_divide_by_two_with_an_expression(num):
 print(add_one_and_divide_by_two_with_an_expression(5))
 ````
 
+##Strings
+
+A string is a sequence of characters (letters).
+* Using "double quotes"
+* Or 'single quotes'
+
+```python
+
+my_name = "Becks"
+print(my_name)
+
+````
+
+
+
 
