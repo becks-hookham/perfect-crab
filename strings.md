@@ -6,6 +6,8 @@ A string is a sequence of characters (letters).
 * Using "double quotes"
 * Or 'single quotes'
 
+A string is a type of **data structure**
+
 ```python
 
 my_name = "Becks"
