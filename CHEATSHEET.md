@@ -65,5 +65,23 @@ def add_numbers(num_a, num_b):
 | `/`      | Division           | `5 / 2`   | `2.5`  | Divides the left number by the right, result is a decimal (float)           |
 | `//`     | Floor Division     | `5 // 2`  | `2`    | Divides and rounds *down* to the nearest whole number (ignores remainder)   |
 | `%`      | Modulus (remainder)| `5 % 2`   | `1`    | Gives the remainder after division                                          |
-| `**`     | Exponentiation     | `5 ** 2`  | `25`   | Raises the left number to the power of the right (here, 5 squared)          |
+| `**`     | Exponentiation     | `5 ** 2`  | `25`   | Raises the left number to the power of the right (here, 5 squared) 
 
+### Expressions
+
+An **expression** is any combination of values, variables, and operators that Python can evaluate to produce a result.
+
+Example:
+
+```python
+2 + 3
+````
+
+**Precedence** determines the order in which Python evaluates operators in an expression. Operators with higher precedence are evaluated first.
+
+```python
+result = 2 + 3 * 4
+print(result)  # 14, not 20
+````
+
+        
