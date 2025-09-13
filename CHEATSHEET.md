@@ -113,4 +113,35 @@ print(f"b is {b}")
 # | a    | 20    |
 # | b    | 20    |
 
-````    
+````
+
+## Two-Step Functions
+
+## Using Multiple Statements
+You can break a problem into steps by creating variables inside a function:
+
+```python
+def add_one_and_divide_by_two_with_statements(num):
+    added = num + 1      # add 1 to the input
+    halved = added / 2   # divide the result by 2
+    return halved
+
+print(add_one_and_divide_by_two_with_statements(5))  # 3.0
+````
+* num → parameter
+
+* added → holds num + 1
+
+* halved → holds added / 2
+
+### Single Expressions
+
+The same logic can be written more concisely with one return statement:
+```python
+def add_one_and_divide_by_two_with_an_expression(num):
+    return (num + 1) / 2
+
+print(add_one_and_divide_by_two_with_an_expression(5))
+````
+
+
