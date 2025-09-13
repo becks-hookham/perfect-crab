@@ -1,3 +1,17 @@
+## Functions
+
+A **function** is like a small machine in your code.
+
+- You give it some input (optional).  
+- It does something (a set of instructions).  
+- It gives you back an output (optional).  
+
+---
+
+## In simple terms
+👉 A function is a **named block of code** that you can reuse whenever you want, instead of writing the same code over and over.
+
+
 This is a function.
 
 ```python
