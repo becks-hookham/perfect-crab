@@ -50,3 +50,29 @@ An expression is **anything in your code that Python can figure out and turn int
 - **Expression** → “Gives me a value.”  
 - **Statement** → “Makes something happen.”
 
+## Notes from the Course 
+
+| Expression | Result | Explanation |
+|------------|--------|-------------|
+| **2 + 3 * 4** | 14 | Python will do multiplication first and then addition |
+
+
+These rules are called **precedence** 
+
+| Precedence (High → Low) | Operators                          | Example           | Notes                                                                 |
+|--------------------------|------------------------------------|-------------------|----------------------------------------------------------------------|
+| 1. Parentheses           | `( )`                             | `(2 + 3) * 4`     | Forces the order you want                                             |
+| 2. Exponentiation        | `**`                              | `2 ** 3` → `8`    | Power (right-associative: `2 ** 3 ** 2` = `2 ** (3 ** 2)`)            |
+| 3. Unary +, -, not       | `+x`, `-x`, `not x`               | `-5`, `not True`  | Unary means “one value” (e.g., negative sign)                         |
+| 4. Multiplication group  | `*`, `/`, `//`, `%`               | `5 * 2`, `5 // 2` | Multiplication, division, floor division, modulus                     |
+| 5. Addition group        | `+`, `-`                          | `5 + 2`, `5 - 2`  | Addition and subtraction                                              |
+| 6. Comparisons           | `<`, `<=`, `>`, `>=`, `==`, `!=` | `3 < 5`, `x == y` | Return `True` or `False`                                              |
+| 7. Logical NOT           | `not`                             | `not False` → `True` | Boolean negation                                                     |
+| 8. Logical AND           | `and`                             | `True and False`  | True only if both sides are True                                      |
+| 9. Logical OR            | `or`                              | `True or False`   | True if at least one side is True                                     |
+
+
+
+
+
+
