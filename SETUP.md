@@ -22,7 +22,7 @@ _👣 You will spend a lot of time checking and comparing your work._
 | **Themes Light / Dark Mode** | - Cog (bottom left) <br>- Hit **Settings** <br>- Workbench → Appearance → Colour Theme <br>- Paul prefers Dark Default |
 | **GitHub Codespaces**| Go to [github.com/codespaces](https://github.com/codespaces) → Sign in → Click your profile picture (top right) → **Your codespaces** to view and manage how many are running. Stop it when you're not using it but they will probably be automatically stopped. |
 | **Run a Program**| python 016_operators.py |
-| **Run Python in terminal**| Type `python`; to exit type in 'exit()'(**repel** Read, Evaluate and Print loop) |
+| **Run Python in terminal**| - Type `python`; to exit type in 'exit()` <br>-  **REPL** = Read, Evaluate and Print loop <br>- Instead of exit() type CTL + D |
 
 
 
