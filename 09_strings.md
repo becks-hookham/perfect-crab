@@ -39,6 +39,7 @@ print(note[0:3])
 ````
 
 ## Count the String
+### This is an Independent Function
 
 This uses a function pre-loaded into Python called `len`
 
@@ -48,6 +49,7 @@ print(f"The string is {length} characters long")
 ````
 
 ## Replace the String
+### This is a Method Function
 
 ```python
 
