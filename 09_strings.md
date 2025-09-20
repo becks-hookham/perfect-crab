@@ -46,3 +46,13 @@ This uses a function pre-loaded into Python called `len`
 length = len("Mooji Michael Anthony!")
 print(f"The string is {length} characters long")
 ````
+
+## Replace the String
+
+```python
+
+old_string = "Hello, YOUR_NAME!"
+new_string = old_string.replace("YOUR_NAME", "Kay")
+print(new_string)
+
+````
