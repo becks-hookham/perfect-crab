@@ -38,4 +38,11 @@ print(note[-1])
 print(note[0:3])
 ````
 
+## Count the String
 
+This uses a function pre-loaded into Python called `len`
+
+```python
+length = len("Mooji Michael Anthony!")
+print(f"The string is {length} characters long")
+````
