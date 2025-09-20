@@ -26,3 +26,14 @@ The indented block of code after the if is the conditional block. Python will
 run it if the condition evaluates to True.
 
 When Python sees the `else:`, it will execute the next block of code only if the condition evaluated to False.
+
+```python
+print("")
+print("Function: has_five_chars")
+
+def has_five_chars(the_str):
+  if len(the_str) == 5:
+    return(f"{the_str} is five characters long")
+  else:
+    return("Not five characters")
+````
