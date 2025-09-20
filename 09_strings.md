@@ -58,3 +58,31 @@ new_string = old_string.replace("YOUR_NAME", "Kay")
 print(new_string)
 
 ````
+**Replace A String**
+
+```python
+old_string = "Hello, YOUR_NAME!"
+new_string = old_string.replace("YOUR_NAME", "Kay")
+
+print(new_string)
+````
+
+**Uppercase**
+
+```python
+def make_uppcase(string):
+    return string.upper()
+````
+
+**Lowercase**
+
+```python
+def make_lowercase(string):
+    return string.lower()
+````
+
+**Whitespace**
+```python
+def strip_whitespace(string):
+  return string.strip()
+````
