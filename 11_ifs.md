@@ -1,8 +1,5 @@
 # IF Statements
 
-```python
-````
-
 
 ```python
 if leaves_on_the_tree == 0:
