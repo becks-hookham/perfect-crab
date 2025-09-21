@@ -300,3 +300,30 @@ print(a_is_within_b("z", "cat"))  # False
 | `and`    | True if **both** conditions are True | `(5 > 2) and (3 < 4)` → `True` | Both sides must be True |
 | `or`     | True if **at least one** condition is True | `(5 > 2) or (3 > 4)` → `True` | Only one side needs to be True |
 | `not`    | Flips True ↔ False | `not (5 == 2)` → `True` | Negates the expression |
+
+# Lists
+
+💻 A list is another type of **data structure**
+
+💻 A list is essentially a sequence of items that can be of any type/
+
+```python
+my_favourite_numbers = [1, 3, 5, 7, 9]
+my_friends = ["Victoria", "Mel", "Melanie", "Emma"]
+````
+
+⚠️ Notice the **[square brackets]** that tell Python it's a list
+⚠️ It's really easy to forget the **commas**
+
+## Indexing
+
+👉🏼 You can index into lists- which basically means point to an item.
+
+````python
+my_list = [44, 35, 21, 63]
+my_list[0]   # Evaluates to 44
+my_list[-1]  # Evaluates to 63
+my_list[1:3] # Evaluates to [35, 21]
+````
+
+
