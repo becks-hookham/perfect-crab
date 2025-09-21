@@ -258,6 +258,7 @@ When Python sees the `else:`, it will execute the next block of code only if the
 ```python
 print("")
 print("Function: has_five_chars")
+````
 
 # Python Comparison & Membership Operators
 
