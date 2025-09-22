@@ -47,3 +47,44 @@ print(my_list) # my_list is still ["a", "b", "c"]
 print(my_copy) # my_copy is now   ["a", "b", "c", "d"]
 ```
 [More inbuilt python functions](https://docs.python.org/3/tutorial/datastructures.html)
+
+**.remove()**
+
+```python
+print("")
+print("Function: remove_item_from_list")
+
+def remove_item_from_list(the_list, item):
+  the_list.remove(item)
+  return the_list
+````
+**.count()**
+
+```python
+print("")
+print("Function: count_items_in_list")
+
+def count_items_in_list(the_list, item):
+  return the_list.count(item)
+````
+**.reverse()**
+
+```python
+print("")
+print("Function: reverse_list")
+
+def reverse_list(the_list):
+  the_list.reverse()
+  return the_list
+````
+**length : len(str)**
+```python
+print("")
+print("Function: list_length")
+
+# Note — it's the same as for strings!
+def list_length(the_list):
+  return len(the_list)
+````
+
+
