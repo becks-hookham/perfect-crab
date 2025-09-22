@@ -48,3 +48,14 @@ def add_cats_repeatedly(word_list, count):
   return word_list
 
 ````
+
+💁🏻‍♀️ The `i` here works as a counter. As this is a variable I have created, it could be anything, I could have used `banana`
+
+It's also possible to use the len() function.
+
+```python
+def add_cats_repeatedly(word_list, count):
+    while len(word_list) < count:
+        word_list.append("cats")
+    return word_list
+````
