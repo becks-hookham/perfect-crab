@@ -1,4 +1,4 @@
-# While Loops
+# For Loops
 
 [Vimeo](https://vimeo.com/954334424/6e40d11ef1#t=300)
 
